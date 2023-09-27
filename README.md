@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Visitor <br>
+![Visitor](http://profile-counter.glitch.me/amdkholil/count.svg)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amdkholil&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
