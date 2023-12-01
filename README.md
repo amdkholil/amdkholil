@@ -6,7 +6,7 @@ Visitor <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amdkholil&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 
-<!-- ![Kholil's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdkholil&show_icons=true&theme=transparent) -->
+ ![Kholil's GitHub stats](https://github-readme-stats.vercel.app/api?username=amdkholil&show_icons=true&theme=transparent) 
 
 
 ![Top Langs](https://wakatime.com/share/@amdkholil/1170c1ca-5891-474d-ab11-32c313362bd2.svg)
