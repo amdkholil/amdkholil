@@ -11,5 +11,4 @@ Visitor <br>
 <img src="https://wakatime.com/share/@amdkholil/1170c1ca-5891-474d-ab11-32c313362bd2.svg" alt="" width="500" />
 -->
 
-Coding activity (start record in Aug 22nd 2023):
 ![coding activity](https://wakatime.com/share/@amdkholil/02eb939e-3fe2-4cb4-8ed2-38dec4b2ae29.svg)
